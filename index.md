@@ -1,6 +1,6 @@
 **Welcome to the changelog for literaiiy.me and its subsites.**
 
-Main site: <https://literaiiy.me>
+Main site: <http://literaiiy.me>
 
 Portfolio (lotus): <http://lotus.literaiiy.me>
 
