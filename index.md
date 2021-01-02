@@ -12,6 +12,9 @@ Experimental (poinsettia): <http://poinsettia.literaiiy.me>
 
 Status: <http://status.literaiiy.me>
 
+### 1/1/2021
+- literaiiy.me moved partially to wordpress
+- SSL cert has been installed finally
 
 ### 12/30/2020
 - lotus placeholder has been added
