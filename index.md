@@ -19,6 +19,8 @@ Status: <http://status.literaiiy.me>
 - literaiiy.me has faced problems on firefox and safari. working to fix
 - better loading animation added
 - fixed magnolia link on tablet
+- changed some descriptions to make tablets fit better on mobile
+- fixed plant placement on mobile and tablet screens
 
 ### 1/2/2021
 
