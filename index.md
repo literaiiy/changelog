@@ -17,6 +17,7 @@ Status: <http://status.literaiiy.me>
 ----------
 ### 1/5/2021
 - added a space
+- dahlia has been overhauled
 
 ### 1/3/2021
 - literaiiy.me has faced problems on firefox and safari. working to fix
