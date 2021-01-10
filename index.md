@@ -12,7 +12,12 @@ Status: <http://status.literaiiy.me>
 Hosted on [GitHub Pages](https://pages.github.com). 
 
 ----------
+### 1/10/2021
+
+- literaiiy.me colors updated
+
 ### 1/5/2021
+
 - added a space
 - dahlia has been overhauled
 
