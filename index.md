@@ -17,6 +17,11 @@ Status: <http://status.literaiiy.me>
 Hosted on [GitHub Pages](https://pages.github.com). 
 
 ----------
+
+### 1/22/2021
+- logos for lotus & poinsettia added
+- tagline added to literaiiy.me
+
 ### 1/18/2021
 - literaiiy.me updated
 
