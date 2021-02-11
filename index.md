@@ -18,6 +18,9 @@ Hosted on [GitHub Pages](https://pages.github.com).
 
 ----------
 
+### 2/11/2021
+- removed snow because it is now February
+
 ### 1/22/2021
 - logos for lotus & poinsettia added
 - tagline added to literaiiy.me
