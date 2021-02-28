@@ -17,6 +17,10 @@ Status: <http://status.literaiiy.me>
 Hosted on [GitHub Pages](https://pages.github.com). 
 
 ----------
+### 2/28/2021
+- dahlia is now dah.li/a
+- magnolia will become finance.dah.li soon
+- poinsettia and lotus will be consolidated
 
 ### 2/11/2021
 - removed snow because it is now February
