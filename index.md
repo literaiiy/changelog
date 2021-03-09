@@ -4,19 +4,15 @@
 
 Main site: <http://literaiiy.me>
 
-Portfolio (lotus): <http://lotus.literaiiy.me>
+dah.li/a: <https://dah.li/a>
 
-Personal blog (dahlia): <https://dahlia.literaiiy.me>
-
-Beermoney blog (magnolia): <http://magnolia.literaiiy.me>
-
-Experimental (poinsettia): <http://poinsettia.literaiiy.me>
 
 Status: <http://status.literaiiy.me>
 
-Hosted on [GitHub Pages](https://pages.github.com). 
-
 ----------
+### 3/9/2021
+- fixed redirection issue on literaiiy.me
+
 ### 2/28/2021
 - dahlia is now dah.li/a
 - magnolia will become finance.dah.li soon
