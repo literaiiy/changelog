@@ -10,6 +10,9 @@ dah.li/a: <https://dah.li/a>
 Status: <http://status.literaiiy.me>
 
 ----------
+### 3/14/2021
+- dah.li/a headers and footers fixed and updated
+
 ### 3/9/2021
 - fixed redirection issue on literaiiy.me
 
