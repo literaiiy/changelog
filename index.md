@@ -10,6 +10,9 @@ dah.li/a: <https://dah.li/a>
 Status: <http://status.literaiiy.me>
 
 ----------
+### 3/23/2021
+- background overlay position fixed on mobile devices and <640px devices
+
 ### 3/14/2021
 - dah.li/a headers and footers fixed and updated
 
