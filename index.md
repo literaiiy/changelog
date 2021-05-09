@@ -10,6 +10,10 @@ dah.li/a: <https://dah.li/a>
 Status: <http://status.literaiiy.me>
 
 ----------
+### 5/9/2021
+- tiramisu added 🥰
+- logo change
+
 ### 3/23/2021
 - background overlay position fixed on mobile devices and <640px devices
 
