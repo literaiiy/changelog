@@ -8,7 +8,7 @@ dah.li/a: <https://dah.li/a>
 
 tiramisu: <https://tiramisu.vip>
 
-Status: <http://status.literaiiy.me>
+Status: <https://status.literaiiy.me>
 
 ----------
 ### 5/18/2021
