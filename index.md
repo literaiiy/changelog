@@ -2,7 +2,7 @@
 
 **Welcome to the changelog for literaiiy.me and its subsites.**
 
-Main site: <http://literaiiy.me>
+Main site: <https://literaiiy.me>
 
 dah.li/a: <https://dah.li/a>
 
