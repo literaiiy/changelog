@@ -11,6 +11,10 @@ tiramisu: <https://tiramisu.vip>
 Status: <http://status.literaiiy.me>
 
 ----------
+### 5/18/2021
+- consolidated literaiiy & literaiiy.me sections
+- added some grass
+
 ### 5/9/2021
 - tiramisu added 🥰
 - logo change
