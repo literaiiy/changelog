@@ -11,6 +11,9 @@ tiramisu: <https://tiramisu.vip>
 Status: <https://status.literaiiy.me>
 
 ----------
+### 5/26/2021
+- fixed dahlia.literaiiy.me & dah.li/a entanglement
+
 ### 5/18/2021
 - consolidated literaiiy & literaiiy.me sections
 - added some grass
