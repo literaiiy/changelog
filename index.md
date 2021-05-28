@@ -77,4 +77,4 @@ Status: <https://status.literaiiy.me>
 - dahlia about page added
 
 ----------
-Copyright © 2021 literaiiy. All rights reserved.
+Copyright © 2021 literaiiy. All rights reserved. Hosted on [GitHub Pages](https://pages.github.com/).
