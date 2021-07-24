@@ -8,6 +8,8 @@ dah.li/a: <https://dah.li/a>
 
 tiramisu: <https://tiramisu.vip>
 
+literaiiy Toolbox: <https://toolbox.literaiiy.me>
+
 Status: <https://status.literaiiy.me>
 
 ----------
