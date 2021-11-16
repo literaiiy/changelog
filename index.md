@@ -13,6 +13,9 @@ literaiiy Toolbox: <https://toolbox.literaiiy.me>
 Status: <https://status.literaiiy.me>
 
 ----------
+### 10/25/2021
+- literaiiy.me remastered with Next.js
+
 ### 5/26/2021
 - fixed dahlia.literaiiy.me & dah.li/a entanglement
 
