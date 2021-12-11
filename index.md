@@ -10,6 +10,8 @@ tiramisu: <https://tiramisu.vip>
 
 literaiiy Toolbox: <https://toolbox.literaiiy.me>
 
+Passiflora: <https://passiflora.literaiiy.me>
+
 Status: <https://status.literaiiy.me>
 
 ----------
