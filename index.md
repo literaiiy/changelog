@@ -13,6 +13,9 @@ literaiiy Toolbox: <https://toolbox.literaiiy.me>
 Status: <https://status.literaiiy.me>
 
 ----------
+### 12/5/2021
+- Passiflora added
+
 ### 10/25/2021
 - literaiiy.me remastered with Next.js
 
