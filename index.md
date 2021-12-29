@@ -15,6 +15,9 @@ Passiflora: <https://passiflora.literaiiy.me>
 Status: <https://status.literaiiy.me>
 
 ----------
+### 12/28/2021
+- tagline updated
+
 ### 12/5/2021
 - Passiflora added
 
